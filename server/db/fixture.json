@@ -1,0 +1,70 @@
+{
+  "fixture": {
+    "id": 1360313,
+    "referee": null,
+    "timezone": "UTC",
+    "date": "2025-03-16T21:30:00+00:00",
+    "timestamp": 1742160600,
+    "periods": {
+      "first": null,
+      "second": null
+    },
+    "venue": {
+      "id": 258,
+      "name": "Allianz Parque",
+      "city": "São Paulo, São Paulo"
+    },
+    "status": {
+      "long": "Not Started",
+      "short": "NS",
+      "elapsed": null,
+      "extra": null
+    }
+  },
+  "league": {
+    "id": 475,
+    "name": "Paulista - A1",
+    "country": "Brazil",
+    "logo": "https://media.api-sports.io/football/leagues/475.png",
+    "flag": "https://media.api-sports.io/flags/br.svg",
+    "season": 2025,
+    "round": "Final",
+    "standings": true
+  },
+  "teams": {
+    "home": {
+      "id": 121,
+      "name": "Palmeiras",
+      "logo": "https://media.api-sports.io/football/teams/121.png",
+      "winner": null
+    },
+    "away": {
+      "id": 131,
+      "name": "Corinthians",
+      "logo": "https://media.api-sports.io/football/teams/131.png",
+      "winner": null
+    }
+  },
+  "goals": {
+    "home": null,
+    "away": null
+  },
+  "score": {
+    "halftime": {
+      "home": null,
+      "away": null
+    },
+    "fulltime": {
+      "home": null,
+      "away": null
+    },
+    "extratime": {
+      "home": null,
+      "away": null
+    },
+    "penalty": {
+      "home": null,
+      "away": null
+    }
+  }
+}

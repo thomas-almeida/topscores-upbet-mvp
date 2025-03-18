@@ -1,0 +1,442 @@
+[
+  {
+      "time": {
+          "elapsed": -5,
+          "extra": null
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 9577,
+          "name": "Charles"
+      },
+      "assist": {
+          "id": null,
+          "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+  },
+  {
+      "time": {
+          "elapsed": 12,
+          "extra": null
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 10007,
+          "name": "Yuri Alberto"
+      },
+      "assist": {
+          "id": 667,
+          "name": "M. Depay"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 38,
+          "extra": null
+      },
+      "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+      },
+      "player": {
+          "id": 390,
+          "name": "Tiquinho Soares"
+      },
+      "assist": {
+          "id": 9588,
+          "name": "Guilherme"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 45,
+          "extra": null
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 5987,
+          "name": "Fabrizio Angileri"
+      },
+      "assist": {
+          "id": null,
+          "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+  },
+  {
+      "time": {
+          "elapsed": 56,
+          "extra": null
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 5794,
+          "name": "R. Garro"
+      },
+      "assist": {
+          "id": 5987,
+          "name": "F. Angileri"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 59,
+          "extra": null
+      },
+      "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+      },
+      "player": {
+          "id": 10492,
+          "name": "Thaciano"
+      },
+      "assist": {
+          "id": 6052,
+          "name": "Á. Barreal"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 60,
+          "extra": null
+      },
+      "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+      },
+      "player": {
+          "id": 506275,
+          "name": "Gabriel Bontempo"
+      },
+      "assist": {
+          "id": 119485,
+          "name": "B. Rollheiser"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 71,
+          "extra": null
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 2426,
+          "name": "A. Carrillo"
+      },
+      "assist": {
+          "id": 363693,
+          "name": "Breno Bidon"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 72,
+          "extra": null
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 5987,
+          "name": "F. Angileri"
+      },
+      "assist": {
+          "id": 9742,
+          "name": "Matheus Bidu"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 79,
+          "extra": null
+      },
+      "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+      },
+      "player": {
+          "id": 10114,
+          "name": "Zé Ivaldo"
+      },
+      "assist": {
+          "id": null,
+          "name": null
+      },
+      "type": "Var",
+      "detail": "Card upgrade",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 81,
+          "extra": null
+      },
+      "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+      },
+      "player": {
+          "id": 10114,
+          "name": "Zé Ivaldo"
+      },
+      "assist": {
+          "id": null,
+          "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Foul"
+  },
+  {
+      "time": {
+          "elapsed": 83,
+          "extra": null
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 10007,
+          "name": "Yuri Alberto"
+      },
+      "assist": {
+          "id": 2521,
+          "name": "Á. Romero"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 83,
+          "extra": null
+      },
+      "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+      },
+      "player": {
+          "id": 414394,
+          "name": "João Pedro Chermont"
+      },
+      "assist": {
+          "id": 6228,
+          "name": "L. Godoy"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 84,
+          "extra": null
+      },
+      "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+      },
+      "player": {
+          "id": 2454,
+          "name": "Y. Soteldo"
+      },
+      "assist": {
+          "id": 415001,
+          "name": "Deivid Washington"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 86,
+          "extra": null
+      },
+      "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+      },
+      "player": {
+          "id": 12744,
+          "name": "Gil"
+      },
+      "assist": {
+          "id": null,
+          "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+  },
+  {
+      "time": {
+          "elapsed": 86,
+          "extra": null
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 667,
+          "name": "Memphis Depay"
+      },
+      "assist": {
+          "id": null,
+          "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+  },
+  {
+      "time": {
+          "elapsed": 90,
+          "extra": 4
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 5794,
+          "name": "R. Garro"
+      },
+      "assist": {
+          "id": 10067,
+          "name": "Alex Santana"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 90,
+          "extra": 4
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 160436,
+          "name": "Raniele"
+      },
+      "assist": {
+          "id": 403953,
+          "name": "Ryan Gustavo"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+  },
+  {
+      "time": {
+          "elapsed": 90,
+          "extra": 5
+      },
+      "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+      },
+      "player": {
+          "id": 10067,
+          "name": "Alex Santana"
+      },
+      "assist": {
+          "id": null,
+          "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Time wasting"
+  },
+  {
+      "time": {
+          "elapsed": 90,
+          "extra": 7
+      },
+      "team": {
+          "id": 128,
+          "name": "Santos",
+          "logo": "https://media.api-sports.io/football/teams/128.png"
+      },
+      "player": {
+          "id": 6637,
+          "name": "Gonzalo Escobar"
+      },
+      "assist": {
+          "id": null,
+          "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Foul"
+  }
+]

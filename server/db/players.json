@@ -1,0 +1,3842 @@
+[
+  {
+    "player": {
+      "id": 463978,
+      "name": "Kauã",
+      "firstname": "Kauã Henrique",
+      "lastname": "Sampaio de Souza",
+      "age": 17,
+      "price": 1,
+      "birth": {
+        "date": "2007-01-04",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "175 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/463978.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 454500,
+      "name": "Guilherme Henrique  de Oliveira Morais",
+      "firstname": "Guilherme Henrique",
+      "lastname": "de Oliveira Morais",
+      "age": 18,
+      "price": 1,
+      "birth": {
+        "date": "2006-12-26",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "172 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/454500.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 454614,
+      "name": "Yago Kauã",
+      "firstname": "Yago Kauã",
+      "lastname": "Rodrigues Gonçalves",
+      "age": 18,
+      "price": 1,
+      "birth": {
+        "date": "2006-02-05",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/454614.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 463976,
+      "name": "Vitinho",
+      "firstname": "Victor",
+      "lastname": "Dourado dos Santos",
+      "age": 17,
+      "price": 1,
+      "birth": {
+        "date": "2007-06-18",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "170 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/463976.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 267862,
+      "name": "Ruan Oliveira",
+      "firstname": "Ruan",
+      "lastname": "de Oliveira Ferreira",
+      "age": 25,
+      "price": 1,
+      "birth": {
+        "date": "2000-03-23",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "176 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/267862.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 454615,
+      "name": "Guilherme Pellegrin",
+      "firstname": "Guilherme",
+      "lastname": "Pellegrin Almeida",
+      "age": 18,
+      "price": 1,
+      "birth": {
+        "date": "2006-07-26",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "171 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/454615.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 490476,
+      "name": "Denner Evangelista",
+      "firstname": "Denner Alves",
+      "lastname": "Evangelista Pereira",
+      "age": 17,
+      "price": 1,
+      "birth": {
+        "date": "2008-02-25",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/490476.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 449254,
+      "name": "Matheus Corrêa",
+      "firstname": "Matheus",
+      "lastname": "Corrêa Leite de Moraes Gonçalv",
+      "age": 18,
+      "price": 1,
+      "birth": {
+        "date": "2006-01-31",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "189 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/449254.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 237102,
+      "name": "Matheus Araújo",
+      "firstname": "Matheus",
+      "lastname": "de Araújo Andrade",
+      "age": 23,
+      "price": 1,
+      "birth": {
+        "date": "2002-05-22",
+        "place": "Osasco",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "176 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/237102.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 2411,
+      "name": "Fágner",
+      "firstname": "Fágner",
+      "lastname": "Conserva Lemos",
+      "age": 36,
+      "price": 1,
+      "birth": {
+        "date": "1989-06-11",
+        "place": "São Paulo",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "168 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/2411.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 463977,
+      "name": "Luiz Fernando",
+      "firstname": "Luiz Fernando",
+      "lastname": "dos Santos de Nardi",
+      "age": 18,
+      "price": 1,
+      "birth": {
+        "date": "2007-07-13",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "175 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/463977.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 63964,
+      "name": "F. Torres",
+      "firstname": "Félix Eduardo",
+      "lastname": "Torres Caicedo",
+      "age": 28,
+      "price": 1,
+      "birth": {
+        "date": "1997-01-11",
+        "place": "San Lorenzo",
+        "country": "Ecuador"
+      },
+      "nationality": "Ecuador",
+      "height": "187 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/63964.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 8,
+          "lineups": 8,
+          "minutes": 720,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.266666",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 5
+        },
+        "shots": {
+          "total": 2,
+          "on": 2
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 126,
+          "key": 1,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 3,
+          "blocks": 3,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 21,
+          "won": 12
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 1,
+          "committed": 2
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 80534,
+      "name": "Caetano",
+      "firstname": "João Victor",
+      "lastname": "Andrade Caetano",
+      "age": 26,
+      "price": 1,
+      "birth": {
+        "date": "1999-06-24",
+        "place": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "182 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/80534.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 70299,
+      "name": "Talles Magno",
+      "firstname": "Talles Magno",
+      "lastname": "Bacelar Martins",
+      "age": 23,
+      "price": 1,
+      "birth": {
+        "date": "2002-06-26",
+        "place": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "185 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/70299.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 11,
+          "lineups": 6,
+          "minutes": 546,
+          "number": null,
+          "position": "Attacker",
+          "rating": "6.925000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": 5,
+          "bench": 7
+        },
+        "shots": {
+          "total": 10,
+          "on": 6
+        },
+        "goals": {
+          "total": 5,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 141,
+          "key": 9,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 3,
+          "blocks": null,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 55,
+          "won": 19
+        },
+        "dribbles": {
+          "attempts": 16,
+          "success": 7,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 5,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 9577,
+      "name": "Charles",
+      "firstname": "Charles",
+      "lastname": "Rigon Matos",
+      "age": 29,
+      "price": 1,
+      "birth": {
+        "date": "1996-06-19",
+        "place": "Santiago",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "187 cm",
+      "weight": "81 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/9577.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 8,
+          "lineups": 5,
+          "minutes": 371,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.633333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": 5,
+          "bench": 8
+        },
+        "shots": {
+          "total": 4,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 70,
+          "key": 2,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 5,
+          "blocks": null,
+          "interceptions": 2
+        },
+        "duels": {
+          "total": 34,
+          "won": 14
+        },
+        "dribbles": {
+          "attempts": 2,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 1,
+          "committed": 9
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 53148,
+      "name": "J. Martínez",
+      "firstname": "José Andrés",
+      "lastname": "Martínez Torres",
+      "age": 31,
+      "price": 1,
+      "birth": {
+        "date": "1994-08-07",
+        "place": "Maracaibo",
+        "country": "Venezuela"
+      },
+      "nationality": "Venezuela",
+      "height": "178 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/53148.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 9,
+          "lineups": 7,
+          "minutes": 611,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.866666",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": 3,
+          "bench": 2
+        },
+        "shots": {
+          "total": 3,
+          "on": 2
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 143,
+          "key": 3,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 9,
+          "blocks": 3,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 45,
+          "won": 25
+        },
+        "dribbles": {
+          "attempts": 7,
+          "success": 6,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 7,
+          "committed": 6
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": 1,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 414353,
+      "name": "Luiz Gustavo",
+      "firstname": "Luiz Gustavo",
+      "lastname": "Lemos Carvalho",
+      "age": 19,
+      "price": 1,
+      "birth": {
+        "date": "2006-01-02",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "178 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/414353.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 1,
+          "lineups": 0,
+          "minutes": 8,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": 0,
+          "bench": 2
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 10067,
+      "name": "Alex Santana",
+      "firstname": "Alex Paulo",
+      "lastname": "Menezes Santana",
+      "age": 30,
+      "price": 1,
+      "birth": {
+        "date": "1995-05-13",
+        "place": "Morungaba",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "182 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/10067.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 12,
+          "lineups": 6,
+          "minutes": 487,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.787500",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 6,
+          "out": 5,
+          "bench": 7
+        },
+        "shots": {
+          "total": 4,
+          "on": 2
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 159,
+          "key": 2,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 7,
+          "blocks": 3,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 37,
+          "won": 18
+        },
+        "dribbles": {
+          "attempts": 2,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 9,
+          "committed": 7
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 5794,
+      "name": "R. Garro",
+      "firstname": "Rodrigo",
+      "lastname": "Garro",
+      "age": 27,
+      "price": 1,
+      "birth": {
+        "date": "1998-01-04",
+        "place": "General Pico",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/5794.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 5,
+          "lineups": 2,
+          "minutes": 242,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.300000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": 2,
+          "bench": 3
+        },
+        "shots": {
+          "total": 1,
+          "on": 1
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 39,
+          "key": 1,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 1,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 8,
+          "won": 5
+        },
+        "dribbles": {
+          "attempts": 1,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 4,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 363693,
+      "name": "Breno",
+      "firstname": "Breno",
+      "lastname": "de Souza Bidon",
+      "age": 20,
+      "price": 1,
+      "birth": {
+        "date": "2005-02-20",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "179 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/363693.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 131,
+          "name": "Corinthians",
+          "logo": "https://media.api-sports.io/football/teams/131.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 3,
+          "lineups": 1,
+          "minutes": 139,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": 0,
+          "bench": 2
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 353953,
+      "name": "Edney Henrique Santos da Silva",
+      "firstname": "Edney Henrique",
+      "lastname": "Santos da Silva",
+      "age": 21,
+      "price": 1,
+      "birth": {
+        "date": "2004-07-26",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "175 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/353953.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 464022,
+      "name": "Wendell Sacramento",
+      "firstname": "Wendell",
+      "lastname": "dos Santos Sacramento",
+      "age": 19,
+      "price": 1,
+      "birth": {
+        "date": "2005-08-31",
+        "place": "Salvador",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "176 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/464022.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 283701,
+      "name": "Daniel",
+      "firstname": "Daniel",
+      "lastname": "da Silva",
+      "age": 21,
+      "price": 1,
+      "birth": {
+        "date": "2004-03-04",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "181 cm",
+      "weight": "86 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/283701.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 422433,
+      "name": "Silva",
+      "firstname": "Diogo Antonio",
+      "lastname": "Rodrigues da Silva",
+      "age": 19,
+      "price": 1,
+      "birth": {
+        "date": "2005-10-06",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/422433.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 464021,
+      "name": "Rafael Coutinho",
+      "firstname": "Rafael",
+      "lastname": "Barbosa Coutinho",
+      "age": 18,
+      "price": 1,
+      "birth": {
+        "date": "2006-03-24",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "178 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/464021.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 415069,
+      "name": "Patrick Silva",
+      "firstname": "Patrick Roberto",
+      "lastname": "da Silva Campos",
+      "age": 21,
+      "price": 1,
+      "birth": {
+        "date": "2004-03-19",
+        "place": "Juiz de Fora",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "187 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/415069.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 425715,
+      "name": "Arthur",
+      "firstname": "Arthur Gabriel",
+      "lastname": "Santana Marcolino",
+      "age": 20,
+      "price": 1,
+      "birth": {
+        "date": "2005-09-04",
+        "place": "São Paulo",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "175 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/425715.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 415066,
+      "name": "Gilberto",
+      "firstname": "Gilberto Júnior",
+      "lastname": "Leite dos Santos",
+      "age": 20,
+      "price": 1,
+      "birth": {
+        "date": "2005-03-27",
+        "place": "São Paulo",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "164 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/415066.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 464020,
+      "name": "Gabriel Kidani",
+      "firstname": "Gabriel",
+      "lastname": "Kidani Bernardino",
+      "age": 18,
+      "price": 1,
+      "birth": {
+        "date": "2006-01-31",
+        "place": "São Paulo",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "167 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/464020.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 464019,
+      "name": "Aranha",
+      "firstname": "Wanderson Carlos",
+      "lastname": "Ferreira dos Santos",
+      "age": 19,
+      "price": 1,
+      "birth": {
+        "date": "2005-02-07",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "190 cm",
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/464019.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 490157,
+      "name": "Deivid",
+      "firstname": "Deivid",
+      "lastname": "Andrade Soares",
+      "age": 19,
+      "price": 1,
+      "birth": {
+        "date": "2005-06-01",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": null,
+      "weight": null,
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/490157.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 414357,
+      "name": "Riquelme Fillipi",
+      "firstname": "Riquelme Fillipi",
+      "lastname": "Marinho de Souza",
+      "age": 19,
+      "price": 1,
+      "birth": {
+        "date": "2006-09-15",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "175 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/414357.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 237103,
+      "name": "Lázaro",
+      "firstname": "Lázaro Vinícius",
+      "lastname": "Marques",
+      "age": 23,
+      "price": 1,
+      "birth": {
+        "date": "2002-03-12",
+        "place": "Belo Horizonte",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "180 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/237103.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 9939,
+      "name": "Dudu",
+      "firstname": "Eduardo",
+      "lastname": "Pereira Rodrigues",
+      "age": 33,
+      "price": 1,
+      "birth": {
+        "date": "1992-01-07",
+        "place": "Goiânia",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "167 cm",
+      "weight": "66 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/9939.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 195111,
+      "name": "Gabriel Menino",
+      "firstname": "Gabriel Vinicius",
+      "lastname": "Menino",
+      "age": 25,
+      "price": 1,
+      "birth": {
+        "date": "2000-09-29",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "177 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/195111.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 414359,
+      "name": "Vitor Nunes",
+      "firstname": "Vitor",
+      "lastname": "de Oliveira Nunes dos Reis",
+      "age": 19,
+      "price": 1,
+      "birth": {
+        "date": "2006-01-12",
+        "place": null,
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "186 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/414359.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 51620,
+      "name": "F. Torres",
+      "firstname": "Facundo Daniel",
+      "lastname": "Torres Pérez",
+      "age": 25,
+      "price": 1,
+      "birth": {
+        "date": "2000-04-13",
+        "place": "La Paz",
+        "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "177 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/51620.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 12,
+          "lineups": 10,
+          "minutes": 877,
+          "number": null,
+          "position": "Attacker",
+          "rating": "7.175000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": 4,
+          "bench": 2
+        },
+        "shots": {
+          "total": 13,
+          "on": 9
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 263,
+          "key": 8,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 6,
+          "blocks": null,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 69,
+          "won": 36
+        },
+        "dribbles": {
+          "attempts": 15,
+          "success": 8,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 20,
+          "committed": 4
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 9917,
+      "name": "Mayke",
+      "firstname": "Mayke",
+      "lastname": "Rocha de Oliveira",
+      "age": 33,
+      "price": 1,
+      "birth": {
+        "date": "1992-11-10",
+        "place": "Carangola",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "179 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/9917.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 11,
+          "lineups": 6,
+          "minutes": 540,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.085714",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": 4,
+          "bench": 5
+        },
+        "shots": {
+          "total": 3,
+          "on": 1
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 238,
+          "key": 4,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 15,
+          "blocks": null,
+          "interceptions": 6
+        },
+        "duels": {
+          "total": 45,
+          "won": 32
+        },
+        "dribbles": {
+          "attempts": 6,
+          "success": 6,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 6,
+          "committed": 3
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 51033,
+      "name": "E. Atuesta",
+      "firstname": "Eduard Andrés",
+      "lastname": "Atuesta Velasco",
+      "age": 28,
+      "price": 1,
+      "birth": {
+        "date": "1997-06-18",
+        "place": "Vélez",
+        "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "180 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/51033.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 3,
+          "lineups": 0,
+          "minutes": 42,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.600000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": 0,
+          "bench": 5
+        },
+        "shots": {
+          "total": 2,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 28,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 3,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 8,
+          "won": 4
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": 1
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 312311,
+      "name": "Michel",
+      "firstname": "Michel Augusto",
+      "lastname": "Modesto Rafael dos Santos",
+      "age": 22,
+      "price": 1,
+      "birth": {
+        "date": "2003-05-20",
+        "place": "Avaré",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/312311.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 121,
+          "name": "Palmeiras",
+          "logo": "https://media.api-sports.io/football/teams/121.png"
+        },
+        "league": {
+          "id": 475,
+          "name": "Paulista - A1",
+          "country": "Brazil",
+          "logo": "https://media.api-sports.io/football/leagues/475.png",
+          "flag": "https://media.api-sports.io/flags/br.svg",
+          "season": 2025
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 4
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  }
+]

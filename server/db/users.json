@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Thomas Almeida",
+    "username": "thomalmeida",
+    "upcoins": 3,
+    "password": "upbet123",
+    "lineUp": []
+  },
+  {
+    "id": 1,
+    "name": "Bruno Nanaka",
+    "username": "brunonanaka",
+    "upcoins": 3,
+    "password": "upbet123",
+    "lineUp": []
+  },
+  {
+    "id": 2,
+    "name": "Lucas Camargo",
+    "username": "lucascamargo",
+    "upcoins": 3,
+    "password": "upbet123",
+    "lineUp": []
+  },
+  {
+    "id": 3,
+    "name": "Brendo Jonch",
+    "username": "brendojonch",
+    "upcoins": 3,
+    "password": "upbet123",
+    "lineUp": []
+  },
+  {
+    "id": 4,
+    "name": "Eduardo Godoi",
+    "username": "eduardogodoi",
+    "upcoins": 3,
+    "password": "upbet123",
+    "lineUp": []
+  }
+]
